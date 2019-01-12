@@ -1,3 +1,6 @@
 {
-  "addons": [ "https://raw.githubusercontent.com/OSSIA/score-addon-tutorial/master/addon.json" ] 
+  "addons": [ 
+    "https://raw.githubusercontent.com/OSSIA/score-addon-tutorial/master/addon.json",
+    "https://raw.githubusercontent.com/OSSIA/score-addon-remotecontrol/master/addon.json"
+  ] 
 }
