@@ -1,0 +1,7 @@
+{
+    "name": "SDK",
+    "raw_name": "sdk",
+    "short": "SDK files required for using the JIT plug-in",
+    "long": "It is necessary to download this SDK before using the JIT plug-ins.",
+    "key": "488d1e86-0390-4a53-bb64-76df5d982428"
+}
