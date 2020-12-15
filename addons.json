@@ -1,7 +1,7 @@
 {
   "addons": [
     "https://raw.githubusercontent.com/ossia/score-addon-tutorial/master/addon.json",
-    "https://raw.githubusercontent.com/ossia/score-addon-analysis/master/addon.json",
+    "https://raw.githubusercontent.com/ossia/score-addon-analysis/main/addon.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/sdk.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/medias/noisecrux.json"
   ]
