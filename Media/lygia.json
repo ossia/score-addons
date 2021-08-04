@@ -1,0 +1,10 @@
+
+{
+    "name": "Lygia shader utilities",
+    "raw_name": "lygia",
+    "kind": "media",
+    "short": "A set of functions to be used with GLSL shaders. Courtesy of Patricio Gonzalez Vivo and contributors.",
+    "key": "80266789-5fb3-421a-b18d-8271f5ae8924",
+    "file": "https://github.com/patriciogonzalezvivo/lygia/archive/refs/heads/main.zip",
+    "url": "https://github.com/patriciogonzalezvivo/lygia"
+}
