@@ -5,6 +5,8 @@
     "https://raw.githubusercontent.com/ossia/score-addon-ndi/main/addon.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/sdk.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/Media/free-midi-chords.json",
+    "https://raw.githubusercontent.com/ossia/score-addons/master/Media/dirt-samples.json",
+    "https://raw.githubusercontent.com/ossia/score-addons/master/Media/drum-patterns.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/Media/lygia.json"
   ]
 }
