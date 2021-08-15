@@ -1,0 +1,12 @@
+{
+    "name": "Space Sounds",
+    "raw_name": "space-sounds",
+    "kind": "media",
+    "short": "Space sounds and others, curated & partially recorded by Sven Grahn",
+    "key": "af4b816c-4a44-4740-9351-c5864bb549e1",
+    "license": "(c) Sven Grahn",
+    "size": "223M",
+    "version": 1,
+    "file": "https://github.com/jcelerier/space-sounds/archive/refs/heads/master.zip",
+    "url": "http://www.svengrahn.pp.se/sounds/sounds.htm"
+}
