@@ -1,0 +1,11 @@
+{
+    "name": "Citizen DJ - The National Screening Room",
+    "raw_name": "citizen-dj-national-screening-room",
+    "kind": "media",
+    "short": "The National Screening Room showcases the riches of the Library's vast moving image collection",
+    "license": "Public domain",
+    "size": "483M",
+    "key": "00e68212-a413-4cf7-82a1-ec72bfbdbc60",
+    "file": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/samplepacks/loc.gov_national-screening-room_wav.zip",
+    "url": "https://citizen-dj.labs.loc.gov/"
+}

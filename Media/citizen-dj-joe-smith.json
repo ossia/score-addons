@@ -1,0 +1,11 @@
+{
+    "name": "Citizen DJ - The Joe Smith Collection",
+    "raw_name": "citizen-dj-joe-smith",
+    "kind": "media",
+    "short": "200 celebrated singers, musicians and industry icons talk about their lives, music, experiences and contemporaries",
+    "license": "Free, attribution required",
+    "size": "501M",
+    "key": "8b4255b4-d439-4138-b2a8-9b40da369332",
+    "file": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/samplepacks/loc.gov_joe-smith_wav.zip",
+    "url": "https://citizen-dj.labs.loc.gov/"
+}

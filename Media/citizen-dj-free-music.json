@@ -1,0 +1,11 @@
+{
+    "name": "Citizen DJ - Free Music",
+    "raw_name": "citizen-dj-free-music",
+    "kind": "media",
+    "short": "Free Music Archive is a website devoted to distribution and curation of rights-free music",
+    "license": "Public domain",
+    "size": "1300M",
+    "key": "f4a3b8a7-8374-40df-9079-36673e7e40e9",
+    "file": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/samplepacks/loc.gov_fma_wav.zip",
+    "url": "https://citizen-dj.labs.loc.gov/"
+}
