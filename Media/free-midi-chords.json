@@ -4,6 +4,9 @@
     "kind": "media",
     "short": "7000+ chords and progresions. Courtesy of Ludovic DROLEZ",
     "key": "9ff29e75-9607-45d5-aeae-f5c5eef8efc3",
+    "license": "MIT",
+    "size": "30M",
+    "version": 1,
     "file": "https://github.com/ldrolez/free-midi-chords/releases/download/v0.20210411/free-midi-chords-20210411.zip",
     "url": "https://github.com/ldrolez/free-midi-chords"
 }

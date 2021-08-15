@@ -5,6 +5,9 @@
     "kind": "media",
     "short": "A set of functions to be used with GLSL shaders. Courtesy of Patricio Gonzalez Vivo and contributors.",
     "key": "80266789-5fb3-421a-b18d-8271f5ae8924",
+    "license": "3-clause BSD",
+    "size": "3M",
+    "version": 1,
     "file": "https://github.com/patriciogonzalezvivo/lygia/archive/refs/heads/main.zip",
     "url": "https://github.com/patriciogonzalezvivo/lygia"
 }
