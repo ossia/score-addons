@@ -1,6 +1,7 @@
 {
   "addons": [
     "https://raw.githubusercontent.com/ossia/score-addon-ndi/main/addon.json",
+    "https://raw.githubusercontent.com/jcelerier/abclib/main/addon.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/sdk.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/Media/free-midi-chords.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/Media/dirt-samples.json",
