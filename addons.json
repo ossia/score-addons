@@ -1,5 +1,6 @@
 {
   "addons": [
+    "https://raw.githubusercontent.com/ossia/score-addons/master/Media/default-library.json",
     "https://raw.githubusercontent.com/ossia/score-addon-ndi/main/addon.json",
     "https://raw.githubusercontent.com/jcelerier/abclib/main/addon.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/sdk.json",
