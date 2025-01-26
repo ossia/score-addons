@@ -1,0 +1,11 @@
+{
+    "name": "BlazePose full body",
+    "raw_name": "blazepose-full-body",
+    "kind": "ai-model",
+    "short": "BlazePose full-body pose estimation onnx model.",
+    "license": "",
+    "size": "12.1M",
+    "key": "",
+    "file": "https://storage.googleapis.com/ailia-models/blazepose-fullbody/pose_landmark_full.onnx",
+    "url": "https://github.com/axinc-ai/ailia-models/tree/master/pose_estimation/blazepose"
+}

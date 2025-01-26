@@ -1,0 +1,11 @@
+{
+    "name": "YOLOv8 pose detection",
+    "raw_name": "yolov8-pose",
+    "kind": "ai-model",
+    "short": "YOLOv8 lightweight onnx model for pose detection",
+    "license": "",
+    "size": "12.8M",
+    "key": "",
+    "file": "https://huggingface.co/Xenova/yolov8-pose-onnx/resolve/main/yolov8n-pose.onnx?download=true",
+    "url": "https://huggingface.co/Xenova/yolov8-pose-onnx/tree/main"
+}
