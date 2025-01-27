@@ -5,7 +5,7 @@
     "short": "YOLOv8 lightweight onnx model for pose detection",
     "license": "",
     "size": "12.8M",
-    "key": "",
+    "key": "89C712DA-2ACA-4D21-B935-44AD6FF6C257",
     "file": "https://huggingface.co/Xenova/yolov8-pose-onnx/resolve/main/yolov8n-pose.onnx?download=true",
     "url": "https://huggingface.co/Xenova/yolov8-pose-onnx/tree/main"
 }
