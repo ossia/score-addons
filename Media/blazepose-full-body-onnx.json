@@ -7,5 +7,6 @@
     "size": "12.1M",
     "key": "5E26BDC2-40EE-4FCC-A5AE-68C9DFA08A00",
     "file": "https://storage.googleapis.com/ailia-models/blazepose-fullbody/pose_landmark_full.onnx",
-    "url": "https://github.com/axinc-ai/ailia-models/tree/master/pose_estimation/blazepose"
+    "url": "https://github.com/axinc-ai/ailia-models/tree/master/pose_estimation/blazepose",
+    "category": "AI Models"
 }
